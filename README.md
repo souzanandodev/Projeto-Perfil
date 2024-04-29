@@ -1,4 +1,4 @@
-<h1 aling="center">Projeto Perfil WebDesigner</h1>h1>
+<h1 aling="center">Projeto Perfil WebDesigner</h1>
 
 <p>Desenvolvimento de website como perfil profisional de Web Developer</p>
 
