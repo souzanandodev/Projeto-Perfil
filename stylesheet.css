@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --text-color: white;
+    --bg-url: url(/img/desktop.png);
+}
+
+body{
+    background-color: #4995AB;
+    background-image: var(--bg-url);
+    height: 100vh;
+}
+
+body *{
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 400;
+    color: var(--text-color);
+}
+
+h1{
+    position: fixed; 
+    top: 33.4%;
+    left: 159px;
+    font-size: 2.5em;
+}
+
+a{
+    position: fixed;
+    left: 270px;
+    top: 40%;
+    font-size: 1.3em;
+}
+
+.conjunto{
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.imagem{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    right: 276px;
+    top: 32.7%;
+}
+
+.retangulo-sup{
+    width: 100px;
+    height: 250px;
+    background-color: #D9D9D9;
+    position: absolute;
+    top: 14.8%;
+    left: 56px;
+}
+
+.retangulo-inf{
+    width: 100px;
+    height: 450px;
+    background-color: #5A7FC6;
+    position: absolute;
+    top: 40.6%;
+    left: 155px;
+}
