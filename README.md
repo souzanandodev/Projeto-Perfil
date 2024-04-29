@@ -4,7 +4,7 @@
 
 #🚀Tecnologias
 <p>Este projeto, em desenvolvimento, em questão, tem o usuo das seguintes tecnologias:</p>
-- HTML e CSS;
-- GIT e GITHUB;
-- FIGMA;
-- VS CODE;
+<a>- HTML e CSS;</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a>- GIT e GITHUB;</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a>- FIGMA;</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a>- VS CODE;</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
