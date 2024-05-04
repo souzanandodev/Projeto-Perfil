@@ -4,7 +4,7 @@
 
 #🚀Tecnologias
 
-Este projeto, em desenvolvimento, em questão, tem o usuo das seguintes tecnologias:
+Este projeto, em desenvolvimento, em questão, tem o uso das seguintes linguagem/tecnologias:
 
 - HTML e CSS
 - GIT e GITHUB
