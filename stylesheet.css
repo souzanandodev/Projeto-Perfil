@@ -70,22 +70,25 @@ p{
 }
 
 /*menu*/
+.menu ul li{
+    display: inline-block;
+    text-decoration: none;
+}
+
 a{
     text-decoration: none;
     display: inline-block;
     padding: 8px;
-}
-li{
-    float: left;
-    display: inline;
 }
 
 .menu{
     position: absolute;
     width: 95%;
     left: 5%;
+    padding: 8px; 
 }
 
 .menu ul li a:hover{
     background-color: #006a7d;
+    border-radius: 5px;
 }
